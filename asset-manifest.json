@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/design/static/css/main.8c496ab8.css",
+    "main.js": "/design/static/js/main.eae34aa5.js",
+    "static/css/680.eef53c63.chunk.css": "/design/static/css/680.eef53c63.chunk.css",
+    "static/js/680.dd6d75d8.chunk.js": "/design/static/js/680.dd6d75d8.chunk.js",
+    "static/css/254.9d1657a8.chunk.css": "/design/static/css/254.9d1657a8.chunk.css",
+    "static/js/254.68140f13.chunk.js": "/design/static/js/254.68140f13.chunk.js",
+    "static/css/653.b0cf8899.chunk.css": "/design/static/css/653.b0cf8899.chunk.css",
+    "static/js/653.5caf33fe.chunk.js": "/design/static/js/653.5caf33fe.chunk.js",
+    "static/css/622.2e90e608.chunk.css": "/design/static/css/622.2e90e608.chunk.css",
+    "static/js/622.d841e61c.chunk.js": "/design/static/js/622.d841e61c.chunk.js",
+    "static/js/843.48b4feba.chunk.js": "/design/static/js/843.48b4feba.chunk.js",
+    "static/js/444.30642b44.chunk.js": "/design/static/js/444.30642b44.chunk.js",
+    "static/js/913.f49b40bb.chunk.js": "/design/static/js/913.f49b40bb.chunk.js",
+    "static/js/604.85de8b21.chunk.js": "/design/static/js/604.85de8b21.chunk.js",
+    "static/js/134.9b1883e9.chunk.js": "/design/static/js/134.9b1883e9.chunk.js",
+    "static/css/207.31d6cfe0.chunk.css": "/design/static/css/207.31d6cfe0.chunk.css",
+    "index.html": "/design/index.html",
+    "main.8c496ab8.css.map": "/design/static/css/main.8c496ab8.css.map",
+    "main.eae34aa5.js.map": "/design/static/js/main.eae34aa5.js.map",
+    "680.eef53c63.chunk.css.map": "/design/static/css/680.eef53c63.chunk.css.map",
+    "680.dd6d75d8.chunk.js.map": "/design/static/js/680.dd6d75d8.chunk.js.map",
+    "254.9d1657a8.chunk.css.map": "/design/static/css/254.9d1657a8.chunk.css.map",
+    "254.68140f13.chunk.js.map": "/design/static/js/254.68140f13.chunk.js.map",
+    "653.b0cf8899.chunk.css.map": "/design/static/css/653.b0cf8899.chunk.css.map",
+    "653.5caf33fe.chunk.js.map": "/design/static/js/653.5caf33fe.chunk.js.map",
+    "622.2e90e608.chunk.css.map": "/design/static/css/622.2e90e608.chunk.css.map",
+    "622.d841e61c.chunk.js.map": "/design/static/js/622.d841e61c.chunk.js.map",
+    "843.48b4feba.chunk.js.map": "/design/static/js/843.48b4feba.chunk.js.map",
+    "444.30642b44.chunk.js.map": "/design/static/js/444.30642b44.chunk.js.map",
+    "913.f49b40bb.chunk.js.map": "/design/static/js/913.f49b40bb.chunk.js.map",
+    "604.85de8b21.chunk.js.map": "/design/static/js/604.85de8b21.chunk.js.map",
+    "134.9b1883e9.chunk.js.map": "/design/static/js/134.9b1883e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c496ab8.css",
+    "static/js/main.eae34aa5.js"
+  ]
+}
